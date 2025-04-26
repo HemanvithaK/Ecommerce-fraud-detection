@@ -1,0 +1,11 @@
+transaction_id,location,payment_method,customer_id,amount,is_fraud
+1,New York,credit_card,1001,150.50,0
+2,Los Angeles,debit_card,1002,75.25,1
+3,Chicago,paypal,1003,200.00,0
+4,San Francisco,credit_card,1004,50.75,0
+5,Boston,debit_card,1005,300.00,1
+6,Seattle,paypal,1006,125.50,0
+7,New York,credit_card,1007,80.25,0
+8,Los Angeles,debit_card,1008,250.00,1
+9,Chicago,paypal,1009,95.75,0
+10,San Francisco,credit_card,1010,175.50,0 
